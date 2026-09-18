@@ -15,6 +15,6 @@ homelab/
 
 * **`./`** — Proxmox host hardware, networking, and VM configuration.
 * **`brothers-grim/`** — Main Web Server VM (Debian) and its hosted applications.
-* **`nas/`** — NAS storage (Debian + Samba + Jellyfin), shares, and media server.
+* **`ATOBD/`** — NAS storage (Debian + Samba + Jellyfin), shares, and media server.
 
 Each VM and major service has its own `README.md` containing its configuration, purpose, and useful commands.
