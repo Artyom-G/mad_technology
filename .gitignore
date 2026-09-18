@@ -1,9 +1,8 @@
 # Environment variables / secrets
 
 .env
-.env.*
+.env
 **/.env
-**/.env.*
 
 # OS files
 
