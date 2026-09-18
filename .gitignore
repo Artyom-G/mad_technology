@@ -1,0 +1,55 @@
+# Environment variables / secrets
+
+.env
+.env.*
+**/.env
+**/.env.*
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+
+*.log
+
+# Temporary files
+
+*.tmp
+*.temp
+
+# Node.js
+
+node_modules/
+dist/
+out/
+.next/
+
+# Python
+
+**pycache**/
+*.py[cod]
+.venv/
+venv/
+
+# Terraform
+
+.terraform/
+*.tfstate
+*.tfstate.*
+
+# Local configuration / secrets
+
+*.pem
+*.key
+*.crt
+secrets/
+credentials/
